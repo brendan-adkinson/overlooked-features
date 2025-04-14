@@ -58,4 +58,5 @@ Randomly shuffles and assigns subjects to folds.
 
 ---
 
+Input connectome .mat file should be an Nx268x268, where N is the number of participants in the study. Input behavioral file should be a .csv of the same length, though with an additional label row. Demo data are available for behavior using the file randomized_behavior_demo_data.csv and for conncetomes using the file found here: https://www.dropbox.com/scl/fi/9yc5ez8n4qqb5ak0gzkh5/randomized_connectome_demo_data.mat?rlkey=e8jrg0x63seztuu769hzqlbzv&st=bblwoa39&dl=0
 
