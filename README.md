@@ -1,6 +1,6 @@
 ### This repository contains code associated with the manuscript: ###
 
-**"Overlooked features lead to divergent neurobiological interpretations of brain-based machine learning biomarkers"**  
+**"Feature selection leads to divergent neurobiological interpretations of brain-based machine learning biomarkers"**  
 *Brendan D. Adkinson et al.*
 
 The code is released under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0), which permits use, distribution, and modification for non-commercial purposes, provided appropriate credit is given.
